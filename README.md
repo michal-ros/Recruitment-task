@@ -1,7 +1,7 @@
 # Github - REST service
 
 
-The applications enable to retrieve basic information about particular user from Github API and save them in database.
+The application enable to retrieve basic information about particular user from Github API and save them in database.
 
 API:
 * GET/users/login
